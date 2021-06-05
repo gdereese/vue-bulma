@@ -21,6 +21,7 @@
 export default {
   name: "Message",
   props: {
+    color: String,
     showDelete: Boolean,
     size: String,
   },
