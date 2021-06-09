@@ -26,8 +26,10 @@ import Notification from "./Notification";
 import ProgressBar from "./ProgressBar";
 import Section from "./Section";
 import Subtitle from "./Subtitle";
+import Tab from "./Tab";
 import Table from "./Table";
 import TableContainer from "./TableContainer";
+import Tabs from "./Tabs";
 import Tag from "./Tag";
 import Tags from "./Tags";
 import Title from "./Title";
@@ -61,8 +63,10 @@ export {
     ProgressBar,
     Section,
     Subtitle,
+    Tab,
     Table,
     TableContainer,
+    Tabs,
     Tag,
     Tags,
     Title,
